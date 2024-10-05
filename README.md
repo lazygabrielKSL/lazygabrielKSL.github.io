@@ -8,5 +8,5 @@ Currently there's nothing here now.
 * Cang-Jie Touch-typing trainer
 * Chinese (Trad) and English version site
 
-# Thank you
+# Thank you, YAT theme!
 * I use [YAT theme](https://github.com/jeffreytse/jekyll-theme-yat/), btw
