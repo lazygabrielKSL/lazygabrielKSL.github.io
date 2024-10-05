@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="icon" type="image/png" href="assets/images/kurumi_icon_16.png">
+    <link rel="shortcut icon" type="image/png" href="assets/images/kurumi_icon_16.png">
+
+    <meta property="og:image" content="img/kirb.png"/>
+    <meta property="og:description" content="Nani miten no yo!"/>
+    <meta property="og:title" content="Kurumi Kawaii"/>
+
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    {% feed_meta %}
+    {% seo %}
+
+  </head>
+  <body>
+    {% include navi.html %}
+    {{ content }}
+    <p>Site by <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="github page">lazygab</a></p>
+  </body>
+</html>
