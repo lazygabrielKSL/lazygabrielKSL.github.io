@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Place Holder 1
-subtitle: Place holder Subtitle
-categories: placeholder
-tags: [placeholder]
+title: 測試用文章
+subtitle: 你置頂了沒
+categories: 公告
+tags: [公告]
 ---
 
-## Heading
-Hello world!
+# 您好，
+おはよう世界！

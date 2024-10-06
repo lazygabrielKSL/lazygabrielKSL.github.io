@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Laziest Site
+title: 軟橘日文
 email: N/A
 author: Gabriel Tangerine K
 
@@ -40,11 +40,10 @@ author: Gabriel Tangerine K
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "The Laziest Site (cleft) 2024-{currentYear} {author}"
+copyright: "軟橘日文 (cleft) 2024-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  A lazy site made by Gabriel Tangerine Kao and powered by Jekyll and YAT.
-  May become a Japanese grammar teaching site.
+  日文文法教學網站。專為日語自學者打造的完全免費無廣告無會員制網站。日檢N5-N1甚至N0通通包辦。
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -69,10 +68,10 @@ yat:
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "zh-tw"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -153,6 +152,8 @@ night_mode: "manual"
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
+  - categories.html
+  - about.html
 
 # Page default value
 # defaults:
