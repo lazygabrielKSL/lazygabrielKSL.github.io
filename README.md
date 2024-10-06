@@ -16,9 +16,7 @@ Currently the site is planned to be a Japanese grammar teaching site. And there'
 - [x] 中文化
 - [x] Revamp navbar
 - [ ] SEO optimizations and Google Analytics
-- [ ] First posts
-- [ ] Revamp homepage posts selecting method
-- [ ] Why is the font size so small?
+- [x] First posts
 - [ ] ~~Entry of~~ English version of the site
 
 # Thank you, YAT theme!
