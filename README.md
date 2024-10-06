@@ -13,10 +13,13 @@ Currently the site is planned to be a Japanese grammar teaching site. And there'
 * Chinese (Trad) and English version site
 
 # To-do
-- [ ] 中文化
-- [ ] Entry of English version of the site
-- [ ] Revamp navbar
+- [x] 中文化
+- [x] Revamp navbar
+- [ ] SEO optimizations and Google Analytics
+- [ ] First posts
 - [ ] Revamp homepage posts selecting method
+- [ ] Why is the font size so small?
+- [ ] ~~Entry of~~ English version of the site
 
 # Thank you, YAT theme!
 * I use [YAT theme](https://github.com/jeffreytse/jekyll-theme-yat/), btw
