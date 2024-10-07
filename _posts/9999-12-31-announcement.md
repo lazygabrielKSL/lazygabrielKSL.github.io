@@ -6,6 +6,7 @@ excerpt_image: "/assets/images/banners/aris_exclamation.jpg"
 categories: 公告
 tags: [公告]
 top: 1
+permalink: "/announcement/"
 ---
 
 ![banner](/assets/images/banners/aris_exclamation.jpg)
