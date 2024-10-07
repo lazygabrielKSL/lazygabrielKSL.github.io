@@ -32,6 +32,7 @@ top: 1
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A614DMQ2)
 
-# 注意
+# 待修復bug
 
-建議使用明亮版 (light) 網站，黑暗 (dark) 會導致表格底色不清楚。
+- 黑暗 (dark) 主題會導致表格底色不清楚。
+- 使用攜帶板瀏覽時，合併的上下儲存格會分開且底下那格會變成 ^^
