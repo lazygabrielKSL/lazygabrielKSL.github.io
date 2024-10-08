@@ -27,6 +27,7 @@
 title: 軟橘日文
 email: N/A
 author: Gabriel Tangerine K
+author_site: "https://github.com/lazygabrielKSL/"
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -138,7 +139,7 @@ lang: "zh-Hant-TW"  # default lang is en
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-night_mode: "manual"
+night_mode: "off"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
