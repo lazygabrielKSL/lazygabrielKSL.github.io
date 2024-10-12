@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 初次使用本站請先閱讀！
+title: 本站公告，請時時查看！
 subtitle: 歡迎，歡迎，我們歡迎你
 excerpt_image: "/assets/images/banners/aris_exclamation.jpg"
 categories: 公告
@@ -11,11 +11,13 @@ permalink: "/announcement/"
 
 ![banner](/assets/images/banners/aris_exclamation.jpg)
 
-# 公告
+## 轉載注意
 
-本站仍在建設中，到處都很破，敬請見諒。
+要轉載內容請附上出處 [https://lazygabrielksl.github.io/](https://lazygabrielksl.github.io/)
 
-另外，要轉載內容請附上出處 [https://lazygabrielksl.github.io/](https://lazygabrielksl.github.io/)
+# 公告（2024/10/12 更新）
+
+我把敬語文章從首頁移除了，現在請從底下的敬語目次進入。
 
 # 這網站幹嘛用的？
 
