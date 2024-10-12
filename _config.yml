@@ -248,4 +248,5 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
-future: true
+# Set to true if you want post with future date visible.
+future: false

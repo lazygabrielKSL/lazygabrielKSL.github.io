@@ -11,15 +11,15 @@ permalink: "/keigo/contents/"
 
 ## 請先閱讀前言
 
-[前言]({% link _posts/2024-10-06-keigo00.md %})
+[前言]({% link _posts/2024-10-06-keigo-preface.md %})
 
 ## 第一章、敬語類別
 
-- [尊敬語]({% link _posts/2024-10-07-keigo01.md %})
+- [尊敬語]({% link _posts/2024-10-07-keigo-sonkeigo.md %})
 
-- [謙讓語]({% link _posts/2024-10-08-keigo02.md %})
+- [謙讓語]({% link _posts/2024-10-08-keigo-kenjougo.md %})
 
-- [丁重語：禮貌用語]({% link _posts/2024-10-12-keigo03.md %})
+- [丁重語：禮貌用語]({% link _posts/2024-10-12-keigo-teichougou.md %})
 
 - 丁寧語：客氣用語 
     - ＝ですます
@@ -29,7 +29,7 @@ permalink: "/keigo/contents/"
 
 ## 第二章、敬語文法
 
-- 雙重敬語
+- [雙重敬語]({% link _posts/2024-10-12-keigo-double.md %})
 
 - 授受動詞
 

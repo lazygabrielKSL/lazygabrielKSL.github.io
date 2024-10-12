@@ -4,7 +4,7 @@ title: "日文基礎敬語 其之零 - 前言"
 subtitle: "這裡塞了一些我不知道該放哪的內容"
 excerpt_image: "/assets/images/banners/aris_knows.jpg"
 categories: 基礎敬語
-tags: 日文學習 基礎敬語
+tags: 日文學習 基礎敬語 丁寧語 Nsuru
 permalink: "/keigo/preface/"
 ---
 
@@ -30,7 +30,9 @@ permalink: "/keigo/preface/"
 因此，第一件事就是學好敬語啦！
 
 ## 縮寫說明
+
 - Nsuru: 動作性名詞，就是後面可以加上「する」變成動詞的名詞。
+
     - > ex. 要請する
 
 ## 決定敬語的要素
