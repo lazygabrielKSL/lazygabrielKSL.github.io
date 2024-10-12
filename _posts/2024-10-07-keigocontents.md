@@ -29,7 +29,7 @@ permalink: "/keigo/contents/"
 
 ## 第二章、敬語文法
 
-- [雙重敬語]({% link _posts/2024-10-12-keigo-double.md %})
+- [雙重敬語]({% link _posts/2024-10-13-keigo-double.md %})
 
 - 授受動詞
 

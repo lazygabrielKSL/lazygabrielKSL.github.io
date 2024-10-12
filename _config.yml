@@ -249,4 +249,4 @@ plugins:
   - jekyll-spaceship
 
 # Set to true if you want post with future date visible.
-future: false
+future: true
