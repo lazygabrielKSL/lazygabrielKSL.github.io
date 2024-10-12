@@ -10,15 +10,16 @@
       "position": 1,
       "name": "home",
       "item": "{{ site.url }}"
-    },
+    }
     {% assign crumburl = page.url | split: '/' %}
     {% for crumb in crumburl offset: 1 %}
+    ,
     {
       "@type": "ListItem",
       "position": {{ forloop.index | plus: 1 }},
       "name": "{{ crumb }}",
       "item": "{{ site.url | append: '/' }}{% for u in crumburl offset: 1 limit: forloop.index %}{{ u | append: '/' }}{% endfor %}"
-    }{% unless forloop.last %},{% endunless %}
+    }
     {% endfor %}
   ]
 }
