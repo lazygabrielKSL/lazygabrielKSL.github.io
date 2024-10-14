@@ -35,12 +35,8 @@ permalink: "/keigo/contents/"
 
 - [可能動詞]({{site.url}}/keigo/kanou)
 
-- 形容詞、形容動詞
+- [形容詞、形容動詞]({{site.url}}/keigo/adj)
 
-- 名詞
+- [名詞]({{site.url}}/keigo/noun)
 
-- 恭敬用語（代名詞、副詞舉隅）
-
-## 注意
-
-沒有超連結 = 尚未發布此文章
+- [恭敬用語]({{site.url}}/keigo/kyoukei)（代名詞、副詞舉隅）
