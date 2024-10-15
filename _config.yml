@@ -156,6 +156,7 @@ header_pages:
   - index.html
   - categories.html
   - about.html
+#  - search.html
 
 # Page default value
 # defaults:
@@ -249,4 +250,4 @@ plugins:
   - jekyll-spaceship
 
 # Set to true if you want post with future date visible.
-future: false
+future: true

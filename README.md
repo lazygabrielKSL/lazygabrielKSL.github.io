@@ -1,6 +1,4 @@
 # The website
-~~A site containing links to my self-made utilities. 
-Currently there's nothing here now.~~
 
 目前的規劃是日文教學網站。
 
@@ -16,8 +14,15 @@ Currently the site is planned to be a Japanese grammar teaching site. And there'
 - [x] 中文化
 - [x] Revamp navbar
 - [ ] SEO optimizations and Google Analytics
-- [x] First posts
-- [ ] ~~Entry of~~ English version of the site
+    - [x] Google Analytics
+    - [x] Google Search Console
+    - [ ] Breadcrumbs
+    - [ ] Internal search
+    - [ ] Carousel
+    - [ ] ...?
+- Contents
+    - [x] Keigo
+    - [ ] ...?
 
 # Thank you, YAT theme!
 * I use [YAT theme](https://github.com/jeffreytse/jekyll-theme-yat/), btw
