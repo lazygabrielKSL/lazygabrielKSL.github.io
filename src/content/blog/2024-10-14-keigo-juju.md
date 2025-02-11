@@ -1,7 +1,7 @@
 ---
 title: "日文基礎敬語 其之五 - 授受動詞"
 description: ""
-heroImage: "/assets/images/banners/ui_mem.jpg"
+heroImage: "/banners/ui_mem.jpg"
 pubDate: "2024 10 14"
 tags: ["基礎敬語"]
 ---
