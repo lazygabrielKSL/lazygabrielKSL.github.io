@@ -1,8 +1,7 @@
 ---
 title: "日文基礎敬語 其之八 - 名詞"
 description: ""
-pubDate: "2024 10 17"
-tags: ["基礎敬語"]
+lastUpdated: 2024-10-17
 ---
 
 ## 一般型

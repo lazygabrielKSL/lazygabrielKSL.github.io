@@ -1,8 +1,7 @@
 ---
 title: "日文基礎敬語 其之六 - 可能動詞"
 description: ""
-pubDate: "2024 10 15"
-tags: ["基礎敬語"]
+lastUpdated: 2024-10-15
 ---
 
 ## 基礎文法複習

@@ -1,8 +1,7 @@
 ---
 title: "日文基礎敬語 其之三 - 丁重語（禮貌用語）"
 description: ""
-pubDate: "2024 10 12"
-tags: ["基礎敬語"]
+lastUpdated: 2024-10-12
 ---
 
 ## 用法

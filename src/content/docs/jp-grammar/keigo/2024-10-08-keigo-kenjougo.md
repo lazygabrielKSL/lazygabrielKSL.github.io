@@ -1,8 +1,7 @@
 ---
 title: "日文基礎敬語 其之二 - 謙讓語"
 description: "對被影響者表示敬意"
-pubDate: "2024 10 08"
-tags: ["基礎敬語"]
+lastUpdated: 2024-10-08
 ---
 
 ## 用途

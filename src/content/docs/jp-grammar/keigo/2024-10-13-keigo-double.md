@@ -1,8 +1,7 @@
 ---
 title: "日文基礎敬語 其之四 - 雙重敬語"
 description: ""
-pubDate: "2024 10 13"
-tags: ["基礎敬語"]
+lastUpdated: 2024-10-13
 ---
 
 ## 同類不可複用

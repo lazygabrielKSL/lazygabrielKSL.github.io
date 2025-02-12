@@ -1,9 +1,11 @@
 ---
-title: "日文基礎敬語 - 目次"
+title: 目次
 description: "あまねく敬語の始発点"
-pubDate: "2024 10 07"
-heroImage: "/banners/aris_knows.jpg"
-tags: ["基礎敬語"]
+lastUpdated: 2024-10-07
+prev:
+    link: index
+next: 
+    link: 2024-10-07-keigo-sonkeigo
 ---
 
 ## 請先閱讀前言
