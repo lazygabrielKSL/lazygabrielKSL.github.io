@@ -1,5 +1,5 @@
 {
-  "name": "network-migrate",
+  "name": "lazygabriel-homepage",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -12,6 +12,7 @@
     "@astrojs/mdx": "^4.0.8",
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.2.1",
+    "@astrojs/starlight": "^0.31.1",
     "astro": "^5.2.5"
   }
 }
