@@ -1,11 +1,11 @@
 ---
-title: 目次
+title: 日文基礎敬語 目次
 description: "あまねく敬語の始発点"
 lastUpdated: 2024-10-07
 prev:
-    link: index
+    link: /jp-grammar/keigo/
 next: 
-    link: 2024-10-07-keigo-sonkeigo
+    link: /jp-grammar/keigo/2024-10-07-keigo-sonkeigo/
 ---
 
 ## 請先閱讀前言

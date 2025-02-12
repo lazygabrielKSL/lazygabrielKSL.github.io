@@ -4,8 +4,7 @@ description: ""
 lastUpdated: 2024-10-06
 prev: false
 next:
-    label: 目次
-    link: 2024-10-07-keigo-contents
+    link: /jp-grammar/keigo/2024-10-07-keigo-contents/
 ---
 
 ## 系列參考資料
