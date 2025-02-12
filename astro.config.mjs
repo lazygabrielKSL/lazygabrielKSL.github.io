@@ -15,17 +15,6 @@ export default defineConfig({
             logo: {
                 src: './src/assets/tangerine_logo.png',
             },
-            sidebar: [
-                {
-                    label: '日文文法',
-                    items: [
-                        {
-                            label: '基礎敬語',
-                            autogenerate: { directory: 'jp-grammar/keigo' },
-                        },
-                    ],
-                },
-            ],
             social: {
                 github: 'https://github.com/lazygabrielKSL',
             },
