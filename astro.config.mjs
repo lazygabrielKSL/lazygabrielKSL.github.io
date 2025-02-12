@@ -11,6 +11,21 @@ export default defineConfig({
         sitemap(), 
         starlight({
             title: '軟橘資訊站（暫）',
+            favicon: './public/kurumi_icon_16.png',
+            logo: {
+                src: './src/assets/tangerine_logo.png',
+            },
+            sidebar: [
+                {
+                    label: '日文文法',
+                    items: [
+                        {
+                            label: '基礎敬語',
+                            autogenerate: { directory: 'jp-grammar/keigo' },
+                        },
+                    ],
+                },
+            ],
         }),
         mdx()
     ],
