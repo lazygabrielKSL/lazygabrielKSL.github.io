@@ -11,7 +11,7 @@ export default defineConfig({
         sitemap(), 
         starlight({
             title: '軟橘資訊站（暫）',
-            favicon: './public/kurumi_icon_16.png',
+            favicon: './kurumi_icon_16.png',
             logo: {
                 src: './src/assets/tangerine_logo.png',
             },
