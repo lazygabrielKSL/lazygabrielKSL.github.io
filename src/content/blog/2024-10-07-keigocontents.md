@@ -2,7 +2,7 @@
 title: "日文基礎敬語 - 目次"
 description: "あまねく敬語の始発点"
 pubDate: "2024 10 07"
-heroImage: "/banners/aris_knows.jpg"
+heroImage: "/src/assets/banners/aris_knows.jpg"
 tags: ["基礎敬語"]
 ---
 

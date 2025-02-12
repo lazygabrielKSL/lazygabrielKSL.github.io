@@ -2,7 +2,7 @@
 title: "日文基礎敬語 其之零 - 前言"
 description: ""
 pubDate: "2024 10 06"
-heroImage: "/banners/aris_knows.jpg"
+heroImage: "/src/assets/banners/aris_knows.jpg"
 tags: ["基礎敬語"]
 ---
 

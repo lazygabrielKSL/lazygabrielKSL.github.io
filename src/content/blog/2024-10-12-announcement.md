@@ -2,7 +2,7 @@
 title: 本站公告，請時時查看！
 description: 歡迎，歡迎，我們歡迎你
 pubDate: "2024 10 12"
-heroImage: "/banners/aris_exclamation.jpg"
+heroImage: "/src/assets/banners/aris_exclamation.jpg"
 tags: ["公告"]
 ---
 
