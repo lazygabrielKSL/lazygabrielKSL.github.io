@@ -1,0 +1,139 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+import { Image } from 'astro:assets';
+import tgrLogo from '../assets/tangerine_logo.png';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<header class="hero">
+				<div class="hero stack gap-4">
+					<div class="stack gap-2">
+						<h1 class="title">軟橘資訊站</h1>
+						<p class="tagline">從日文教學到 Linux 心法</p>
+					</div>
+				</div>
+				<Image src={tgrLogo} alt="A logo of a tangerine fruit."/>
+			</header>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.hero {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 2rem;
+	}
+
+	.title,
+	.tagline {
+		max-width: 37ch;
+		margin-inline: auto;
+	}
+
+	.title {
+		font-size: var(--text-3xl);
+		color: var(--gray-0);
+	}
+
+	.roles {
+		display: none;
+	}
+
+	.hero img {
+		object-fit: cover;
+		object-position: top;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	@media (min-width: 50em) {
+		.hero {
+			display: grid;
+			grid-template-columns: 6fr 4fr;
+			padding-inline: 2.5rem;
+			gap: 3.75rem;
+		}
+
+		.roles {
+			margin-top: 0.5rem;
+			display: flex;
+			gap: 0.5rem;
+		}
+
+		.hero img {
+			border-radius: 4.5rem;
+			object-fit: cover;
+		}
+	}
+
+	.stack {
+	display: flex;
+	flex-direction: column;
+	}
+
+	.gap-2 {
+		gap: 0.5rem;
+	}
+	.gap-4 {
+		gap: 1rem;
+	}
+	.gap-8 {
+		gap: 2rem;
+	}
+	.gap-10 {
+		gap: 2.5rem;
+	}
+	.gap-15 {
+		gap: 3.75rem;
+	}
+	.gap-20 {
+		gap: 5rem;
+	}
+	.gap-30 {
+		gap: 7.5rem;
+	}
+	.gap-48 {
+		gap: 12rem;
+	}
+
+	@media (min-width: 50em) {
+		.lg\:gap-2 {
+			gap: 0.5rem;
+		}
+		.lg\:gap-4 {
+			gap: 1rem;
+		}
+		.lg\:gap-8 {
+			gap: 2rem;
+		}
+		.lg\:gap-10 {
+			gap: 2.5rem;
+		}
+		.lg\:gap-15 {
+			gap: 3.75rem;
+		}
+		.lg\:gap-20 {
+			gap: 5rem;
+		}
+		.lg\:gap-30 {
+			gap: 7.5rem;
+		}
+		.lg\:gap-48 {
+			gap: 12rem;
+		}
+	}
+</style>
