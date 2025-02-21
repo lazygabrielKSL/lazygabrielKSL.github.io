@@ -1,0 +1,40 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+import GalleryCard from '../components/GalleryCard.astro';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section>
+				<ul>
+					<GalleryCard 
+                        url="announcement/"
+                        heroImage="/assets/banners/aris_exclamation.jpg"
+                        title="本站公告！"
+                    />
+					<GalleryCard 
+                        url="https://lazygabrielksl.github.io/jp-grammar/"
+                        heroImage="/assets/banners/aris_knows.jpg"
+                        title="日文文法教學"
+                    />
+					<GalleryCard 
+                        url="tags/Linux/"
+                        heroImage="/assets/banners/linux-tips.png"
+                        title="Linux 心法"
+                    />
+				</ul>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>

@@ -1,0 +1,19 @@
+---
+import FormattedDate from "./FormattedDate.astro";
+import "../styles/gallery.css"
+
+interface Props {
+    url: string;
+    heroImage: string;
+    title: string;
+}
+
+const { url, heroImage, title } = Astro.props;
+---
+
+<li>
+    <a href={url}>
+        <img width={720} height={360} src={heroImage} alt="" />
+        <h4 class="title">{title}</h4>
+    </a>
+</li>
