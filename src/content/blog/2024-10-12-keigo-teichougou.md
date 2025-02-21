@@ -1,7 +1,7 @@
 ---
 title: "日文基礎敬語 其之三 - 丁重語（禮貌用語）"
 description: ""
-lastUpdated: 2024-10-12
+pubDate: 2024-10-12
 tags: ["jp-grammar", "keigo"]
 ---
 
