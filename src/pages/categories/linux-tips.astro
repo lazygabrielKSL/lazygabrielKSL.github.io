@@ -1,0 +1,25 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="Linux 心法|軟橘小站" description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section>
+                <p>主題分類：Linux 心法</p>
+				<ul>
+					<li><a href="/blog/linux-tips/2024-12-25-arch-line/">如何在 Arch Linux 安裝電腦版 Line (2025-02 仍適用)</li>             
+				</ul>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>

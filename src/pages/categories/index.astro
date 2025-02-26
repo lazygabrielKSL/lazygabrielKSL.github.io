@@ -1,10 +1,10 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 
-import GalleryCard from '../components/GalleryCard.astro';
+import GalleryCard from '../../components/GalleryCard.astro';
 ---
 
 <!doctype html>
@@ -23,12 +23,12 @@ import GalleryCard from '../components/GalleryCard.astro';
                         title="本站公告！"
                     />
 					<GalleryCard 
-                        url="../tags/jp-grammar/"
+                        url="/categories/keigo/"
                         heroImage="/assets/banners/aris_knows.jpg"
-                        title="日文文法教學"
+                        title="日文敬語教學"
                     />
 					<GalleryCard 
-                        url="../tags/Linux/"
+                        url="/categories/linux-tips/"
                         heroImage="/assets/banners/linux-tips.png"
                         title="Linux 心法"
                     />
