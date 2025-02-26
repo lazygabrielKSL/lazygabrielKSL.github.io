@@ -3,6 +3,7 @@ title: 日文基礎敬語 目次
 description: "あまねく敬語の始発点"
 pubDate: 2024-10-07
 tags: ["jp-grammar", "keigo"]
+heroImage: "/assets/banners/home.jpeg"
 ---
 
 ## 請先閱讀前言

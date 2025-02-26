@@ -3,6 +3,7 @@ title: "日文基礎敬語 其之一 - 尊敬語"
 description: "向行為者表示敬意"
 pubDate: 2024-10-07
 tags: ["jp-grammar", "keigo"]
+heroImage: "/assets/banners/blog-placeholder-4.jpg"
 ---
 
 ## 用途

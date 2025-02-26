@@ -3,6 +3,7 @@ title: "日文基礎敬語 其之二 - 謙讓語"
 description: "對被影響者表示敬意"
 pubDate: 2024-10-08
 tags: ["jp-grammar", "keigo"]
+heroImage: "/assets/banners/blog-placeholder-4.jpg"
 ---
 
 ## 用途

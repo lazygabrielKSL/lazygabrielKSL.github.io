@@ -3,6 +3,7 @@ title: "日文基礎敬語 其之零 - 前言"
 description: ""
 pubDate: 2024-10-06
 tags: ["jp-grammar", "keigo"]
+heroImage: "/assets/banners/blog-placeholder-4.jpg"
 ---
 
 ## 系列參考資料

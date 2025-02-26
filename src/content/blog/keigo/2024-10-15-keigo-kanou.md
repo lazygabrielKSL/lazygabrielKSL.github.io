@@ -3,6 +3,7 @@ title: "日文基礎敬語 其之六 - 可能動詞"
 description: ""
 pubDate: 2024-10-15
 tags: ["jp-grammar", "keigo"]
+heroImage: "/assets/banners/blog-placeholder-4.jpg"
 ---
 
 ## 基礎文法複習

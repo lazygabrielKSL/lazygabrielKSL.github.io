@@ -3,6 +3,7 @@ title: "日文基礎敬語 其之九 - 恭敬用語"
 description: "代名詞、副詞舉隅"
 pubDate: 2024-10-18
 tags: ["jp-grammar", "keigo"]
+heroImage: "/assets/banners/blog-placeholder-4.jpg"
 ---
 
 此章節為所謂的「恭敬用語」，嚴格上來說不算上位敬語，但使用敬語時需要搭配使用。
