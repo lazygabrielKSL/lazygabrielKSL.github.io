@@ -12,7 +12,8 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = '/assets/banners/blog-placeholder-1.jpg' } = Astro.props;
+let { title, description, image = '/assets/banners/blog-placeholder-1.jpg' } = Astro.props;
+title += "|" + SITE_TITLE;
 ---
 
 <!-- Global Metadata -->
@@ -23,7 +24,7 @@ const { title, description, image = '/assets/banners/blog-placeholder-1.jpg' } =
 <link
 	rel="alternate"
 	type="application/rss+xml"
-	title={SITE_TITLE}
+	title={title}
 	href={new URL('rss.xml', Astro.site)}
 />
 <meta name="generator" content={Astro.generator} />
