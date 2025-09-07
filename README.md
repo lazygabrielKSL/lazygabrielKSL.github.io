@@ -10,5 +10,6 @@ What's inside:
 
 - My study notes
 
-# Thank you, Astro!
- This site uses [Astro](https://astro.build/) as its framework.
+# Caution!
+
+- This website is undergoing a thorough revamp.
