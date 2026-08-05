@@ -1,4 +1,4 @@
-# Soft Tangerine Web
+# Soft Tangerine
 
 This is my personal website.
 
