@@ -1,8 +1,10 @@
 ---
 title: "日文基礎敬語 其之八 - 名詞"
-description: ""
+description: "日文基礎敬語 名詞"
 pubDate: 2024-10-17
-tags: ["jp-grammar", "keigo"]
+tags:
+  - jp-grammar
+  - keigo
 heroImage: "/assets/banners/blog-placeholder-4.jpg"
 ---
 

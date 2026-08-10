@@ -1,4 +1,35 @@
 site_name: 軟橘小站
 site_url: https://lazygabrielksl.github.io/
+site_description: A site containing my Linux and Japanese studying notes.
+site_author: Gabriel Tangerine Kao
+
 theme:
   name: material
+  language: zh-TW
+  favicon: assets/kurumi_icon_16.png
+  logo: assets/kurumi_icon_16.png
+  features:
+    - navigation.indexes
+
+plugins:
+  - search
+  - tags
+
+nav:
+  - 首頁: index.md
+  - 日文文法:
+      - jp-grammar/index.md
+      - 敬語:
+        - jp-grammar/keigo/index.md
+        - 前言: jp-grammar/keigo/preface.md
+        - 尊敬語: jp-grammar/keigo/sonkeigo.md
+        - 謙讓語: jp-grammar/keigo/kenjougo.md
+        - 丁重語（禮貌用語）: jp-grammar/keigo/teichougou.md
+        - 雙重敬語: jp-grammar/keigo/double.md
+        - 授受動詞: jp-grammar/keigo/juju.md
+        - 可能動詞: jp-grammar/keigo/kanou.md
+        - 形容詞、形容動詞: jp-grammar/keigo/adj.md
+        - 名詞: jp-grammar/keigo/noun.md
+        - 恭敬用語: jp-grammar/keigo/kyoukei.md
+  - Linux 筆記:
+    - linux-tips/index.md

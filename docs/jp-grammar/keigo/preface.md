@@ -1,8 +1,10 @@
 ---
 title: "日文基礎敬語 其之零 - 前言"
-description: ""
+description: "日文基礎敬語 前言"
 pubDate: 2024-10-06
-tags: ["jp-grammar", "keigo"]
+tags:
+  - jp-grammar
+  - keigo
 heroImage: "/assets/banners/blog-placeholder-4.jpg"
 ---
 

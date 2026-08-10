@@ -1,8 +1,10 @@
 ---
 title: "日文基礎敬語 其之五 - 授受動詞"
-description: ""
+description: "日文基礎敬語 授受動詞"
 pubDate: 2024-10-14
-tags: ["jp-grammar", "keigo"]
+tags:
+  - jp-grammar
+  - keigo
 heroImage: "/assets/banners/ui_mem.jpg"
 ---
 

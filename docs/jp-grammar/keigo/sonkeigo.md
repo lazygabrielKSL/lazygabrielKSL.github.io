@@ -1,8 +1,10 @@
 ---
 title: "日文基礎敬語 其之一 - 尊敬語"
-description: "向行為者表示敬意"
+description: "日文基礎敬語 尊敬語 向行為者表示敬意"
 pubDate: 2024-10-07
-tags: ["jp-grammar", "keigo"]
+tags:
+  - jp-grammar
+  - keigo
 heroImage: "/assets/banners/blog-placeholder-4.jpg"
 ---
 
@@ -14,7 +16,7 @@ heroImage: "/assets/banners/blog-placeholder-4.jpg"
 
     - 行為者是聽者的長上
 
-    - 聽者是行為者的長上，此時可以使用敬意程度不高的 [V +「れる / られる」](#1-v-れる--られる)，或是直接當作內關係人而使用謙讓或丁重。
+    - 聽者是行為者的長上，此時可以使用敬意程度不高的 [V +「れる / られる」](#v-reru-rareru)，或是直接當作內關係人而使用謙讓或丁重。
 
         - 建議把前三章讀完再來深入理解這個部份。
         
@@ -22,13 +24,13 @@ heroImage: "/assets/banners/blog-placeholder-4.jpg"
 
             1. > (X) 部長は今日、大阪へいらっしゃるそうです。（董事長是部長的長上，不可在董事長面前將部長抬舉得比董事長還高。）
 
-            2. > (O) 部長は今日、大阪へ行かれるそうです。（[V +「れる / られる」](#1-v-れる--られる)，不過份抬舉）
+            2. > (O) 部長は今日、大阪へ行かれるそうです。（[V +「れる / られる」](#v-reru-rareru)，不過份抬舉）
 
             3. > (O) 部長は今日、大阪へ参るそうです。（將部長視為內關係人，使用丁重）
 
 ## 文法
 
-### 1. **V +「れる / られる」**
+### 1. **V +「れる / られる」** { #v-reru-rareru }
     
 > ex. 読まれます。
 
@@ -44,7 +46,7 @@ heroImage: "/assets/banners/blog-placeholder-4.jpg"
 
 > ex. ご相談になります
 
-- 但有些Nsuru只能用「[〜なさいます](#3-なさいます)」
+- 但有些Nsuru只能用「[〜なさいます](#nasai-masu)」
 
 - 通常只有一個音的動詞（ex. 煮る、似る）也不能使用「～になります」
 
@@ -60,7 +62,7 @@ heroImage: "/assets/banners/blog-placeholder-4.jpg"
             
 - 若某動詞有下述的「[特殊型敬語](#4-特殊型舉隅)」，則使用特殊型。通常就不使用「お / ご ～ になります」。
 
-### 3. **〜なさいます**
+### 3. **〜なさいます** { #nasai-masu }
 
 - **Nsuru + なさいます**
     

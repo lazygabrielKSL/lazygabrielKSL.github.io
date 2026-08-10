@@ -1,8 +1,10 @@
 ---
 title: "日文基礎敬語 其之九 - 恭敬用語"
-description: "代名詞、副詞舉隅"
+description: "日文基礎敬語 恭敬用語 代名詞、副詞舉隅"
 pubDate: 2024-10-18
-tags: ["jp-grammar", "keigo"]
+tags:
+  - jp-grammar
+  - keigo
 heroImage: "/assets/banners/blog-placeholder-4.jpg"
 ---
 
