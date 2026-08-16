@@ -26,6 +26,7 @@ theme:
 plugins:
   - search
   - tags
+  - blog
 
 markdown_extensions:
   - attr_list
@@ -55,3 +56,5 @@ nav:
         - 恭敬用語: jp-grammar/keigo/kyoukei.md
   - Linux 筆記:
     - linux-tips/index.md
+  - 札記:
+    - blog/index.md

@@ -30,5 +30,5 @@ description: "一個有日文文法、Linux 使用心得、科技筆記等，什
 ## :simple-archlinux: Linux 筆記
 I use arch, btw.
 
-## :bookmark: Blog
+## :bookmark: 札記
 食記之類的。
