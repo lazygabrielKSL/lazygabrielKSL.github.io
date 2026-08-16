@@ -1,0 +1,38 @@
+/* For home index */
+.feature-row {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    margin: 4rem 0;
+}
+
+.feature-text,
+.feature-image {
+    flex: 1;
+}
+
+.feature-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+.feature-row.reverse {
+    flex-direction: row-reverse;
+}
+
+@media screen and (max-width: 768px) {
+    .feature-row,
+    .feature-row.reverse {
+        flex-direction: column;
+    }
+
+    .feature-image {
+        order: 1;
+    }
+
+    .feature-text {
+        order: 2;
+    }
+}
